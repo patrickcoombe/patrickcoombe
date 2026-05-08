@@ -10,5 +10,5 @@ Just using Github's boilerplate "about" I will update this soon.
 - 🤔 I’m looking for help with: nothing at the moment, but always looking for contributions on JSONLD.com
 - 💬 Ask me about: anything you see on my profile
 - 📫 How to reach me: pmkoom on X/twitter
-
+- [llm cartel](https://llmcartel.com) <---- 5/8/26
 
